@@ -771,12 +771,6 @@
 							"colid": "6739ba55-5f7b-4391-ab6e-0c20956a8cfb"
 						}
 					]
-				},
-				{
-					"id": "756ec290-3891-4c6c-973b-6d6c242f104e",
-					"isPk": false,
-					"name": "customer_ai_2",
-					"cols": []
 				}
 			],
 			"indexes": [],
@@ -1269,7 +1263,7 @@
 		"def_collation": "",
 		"def_others": "",
 		"connectionVersion": "",
-		"lastSaved": 1728423287792
+		"lastSaved": 1728423343640
 	},
 	"otherObjects": {},
 	"diagrams": {
@@ -1288,7 +1282,7 @@
 				"139fd6d6-86db-4349-bf8e-f315f7462e80": {
 					"referencedItemId": "139fd6d6-86db-4349-bf8e-f315f7462e80",
 					"x": 45,
-					"y": 67,
+					"y": 66,
 					"gHeight": 315,
 					"gWidth": 221,
 					"color": "#ffffff",
