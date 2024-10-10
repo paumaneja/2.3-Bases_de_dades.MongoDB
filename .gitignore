@@ -10,6 +10,9 @@
 #Carpeta .idea/
 .idea/
 
+#Carpeta old_versions
+old_versions/
+
 # Log file
 *.log
 
